@@ -12,4 +12,18 @@ class Solution:
             running_sum = nums[idx] + result[idx - 1]
             result.append(running_sum)
         return result
+    
+class Solution:
+    def runningSum(self, nums: List[int]) -> List[int]:
+        
+        if not nums:
+            return nums
+        
+        if len(nums) == 1:
+            return nums
+        
+        for idx in range(1, len(nums)):
+            nums[idx] += nums[idx - 1]
+            
+        return nums
             
