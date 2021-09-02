@@ -5,13 +5,12 @@ class Solution:
         
         for arr_idx, num in enumerate(nums):
             current = arr_idx
-            ans = set()
+            count = 0
             while nums[current] in valid_idx:
-                ans.add(nums[current])
                 current = nums[current]
+                count += 1
                 valid_idx.remove(current)
-            
-            longest = max(longest, len(ans))
+            longest = max(longest, count)
         return longest
         
         
