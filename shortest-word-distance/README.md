@@ -1,3 +1,4 @@
+[Discussion Post (created on 10/8/2021 at 13:4)](https://leetcode.com/problems/shortest-word-distance/discuss/1455107/Python3-Solution)  
 <h2>243. Shortest Word Distance</h2><h3>Easy</h3><hr><div><p>Given an array of strings <code>wordsDict</code> and two different strings that already exist in the array <code>word1</code> and <code>word2</code>, return <em>the shortest distance between these two words in the list</em>.</p>
 
 <p>&nbsp;</p>
