@@ -1,22 +1,29 @@
 class Solution:
     def permuteUnique(self, nums: List[int]) -> List[List[int]]:
-        if len(nums) == 1:
-            return [nums[:]]
+        counter = collections.Counter(nums)
+        res = []
+        perms = []
         
-        ans = []
-        
-        for _ in range(len(nums)):
-            num = nums.pop(0)
-            perms = self.permuteUnique(nums)
+        def backtrack():
+            if len(perms) == len(nums):
+                res.append(perms[:])
+                return
             
-            for perm in perms:
-                perm.append(num)
-                
-                if perm not in ans:
-                    ans.extend([perm])
-            nums.append(num)
+            for n in counter:
+                if counter[n] > 0:
+                    perms.append(n)
+                    counter[n] -= 1
+                    
+                    backtrack()
+                    
+                    counter[n] += 1
+                    perms.pop()
+                    
+        backtrack()
         
-        return ans
+        return res
+                    
+
         
         
             
