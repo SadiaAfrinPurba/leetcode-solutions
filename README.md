@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Greedy
 |  |
 | ------- |
@@ -99,4 +100,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+## Memoization
+|  |
+| ------- |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 <!---LeetCode Topics End-->
