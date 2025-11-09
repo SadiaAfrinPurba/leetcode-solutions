@@ -16,11 +16,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Greedy
@@ -113,4 +115,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2288-count-operations-to-obtain-zero](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/2288-count-operations-to-obtain-zero) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
