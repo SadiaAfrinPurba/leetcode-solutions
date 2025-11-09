@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [2288-count-operations-to-obtain-zero](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Sliding Window
 |  |
@@ -108,4 +109,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+## Math
+|  |
+| ------- |
+| [2288-count-operations-to-obtain-zero](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/2288-count-operations-to-obtain-zero) |
 <!---LeetCode Topics End-->
