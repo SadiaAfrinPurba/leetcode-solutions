@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0474-ones-and-zeroes](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0474-ones-and-zeroes) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -21,11 +22,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0474-ones-and-zeroes](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0474-ones-and-zeroes) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0474-ones-and-zeroes](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0474-ones-and-zeroes) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Greedy
