@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Queue
 |  |
