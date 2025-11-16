@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0056-merge-intervals](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0078-subsets) |
 | [0474-ones-and-zeroes](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0474-ones-and-zeroes) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
