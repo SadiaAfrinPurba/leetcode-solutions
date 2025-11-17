@@ -95,11 +95,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0100-same-tree) |
 | [0572-subtree-of-another-tree](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [3863-power-grid-maintenance](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0100-same-tree) |
 | [3863-power-grid-maintenance](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
@@ -188,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0100-same-tree) |
 | [0572-subtree-of-another-tree](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
 |  |
@@ -196,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0100-same-tree) |
 | [0572-subtree-of-another-tree](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
