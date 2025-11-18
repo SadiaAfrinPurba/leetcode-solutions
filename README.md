@@ -97,12 +97,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0100-same-tree) |
+| [0207-course-schedule](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0572-subtree-of-another-tree](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [3863-power-grid-maintenance](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0100-same-tree) |
+| [0207-course-schedule](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0207-course-schedule) |
 | [3863-power-grid-maintenance](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
@@ -111,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0207-course-schedule) |
 | [3863-power-grid-maintenance](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/3863-power-grid-maintenance) |
 ## Ordered Set
 |  |
@@ -206,4 +209,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
