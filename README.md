@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0057-insert-interval](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0078-subsets) |
 | [0474-ones-and-zeroes](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0474-ones-and-zeroes) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
