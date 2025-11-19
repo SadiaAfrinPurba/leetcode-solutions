@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0745-find-smallest-letter-greater-than-target](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/2625-increment-submatrices-by-one) |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -75,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Sliding Window
@@ -191,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Enumeration
 |  |
 | ------- |
