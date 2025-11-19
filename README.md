@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0039-combination-sum) |
+| [0055-jump-game](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0078-subsets) |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0055-jump-game) |
 | [0322-coin-change](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0474-ones-and-zeroes) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -48,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0055-jump-game) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
