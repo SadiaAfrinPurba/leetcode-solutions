@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0474-ones-and-zeroes](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0474-ones-and-zeroes) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0759-set-intersection-size-at-least-two](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0759-set-intersection-size-at-least-two) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0055-jump-game) |
+| [0759-set-intersection-size-at-least-two](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0759-set-intersection-size-at-least-two) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -197,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0759-set-intersection-size-at-least-two](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0759-set-intersection-size-at-least-two) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Enumeration
 |  |
