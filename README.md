@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0078-subsets) |
+| [0200-number-of-islands](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0474-ones-and-zeroes) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2625-increment-submatrices-by-one](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/2625-increment-submatrices-by-one) |
 ## Simulation
@@ -108,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0572-subtree-of-another-tree](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
 | [3863-power-grid-maintenance](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/3863-power-grid-maintenance) |
@@ -115,12 +118,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0322-coin-change) |
 | [3863-power-grid-maintenance](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [3863-power-grid-maintenance](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/3863-power-grid-maintenance) |
 ## Graph
 |  |
