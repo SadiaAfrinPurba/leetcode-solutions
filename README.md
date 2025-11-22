@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0474-ones-and-zeroes](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0474-ones-and-zeroes) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Dynamic Programming
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -149,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/2625-increment-submatrices-by-one) |
 ## Recursion
@@ -160,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0078-subsets](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0078-subsets) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## Memoization
 |  |
 | ------- |
