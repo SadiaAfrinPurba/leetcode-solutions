@@ -25,4 +25,3 @@ class Solution:
                     dfs(row, col)
         
         return res
-    
