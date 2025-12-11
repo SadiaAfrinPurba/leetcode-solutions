@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0055-jump-game](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0055-jump-game) |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0474-ones-and-zeroes](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0474-ones-and-zeroes) |
@@ -252,4 +254,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0207-course-schedule) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
