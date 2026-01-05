@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0078-subsets) |
+| [0169-majority-element](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0474-ones-and-zeroes) |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0049-group-anagrams](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0169-majority-element) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -217,11 +219,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0169-majority-element) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0169-majority-element) |
 ## Merge Sort
 |  |
 | ------- |
@@ -231,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0049-group-anagrams](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0169-majority-element) |
 | [0759-set-intersection-size-at-least-two](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0759-set-intersection-size-at-least-two) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
