@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0049-group-anagrams) |
@@ -197,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0027-remove-element](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0344-reverse-string) |
 ## Monotonic Stack
