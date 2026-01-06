@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0474-ones-and-zeroes) |
+| [0706-design-hashmap](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0706-design-hashmap) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0759-set-intersection-size-at-least-two](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0759-set-intersection-size-at-least-two) |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0169-majority-element) |
+| [0706-design-hashmap](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0706-design-hashmap) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -92,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0706-design-hashmap](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0706-design-hashmap) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Matrix
 |  |
@@ -261,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0572-subtree-of-another-tree) |
+| [0706-design-hashmap](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0706-design-hashmap) |
 ## Topological Sort
 |  |
 | ------- |
@@ -269,4 +273,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Design
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/SadiaAfrinPurba/leetcode-solutions/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
